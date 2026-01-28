@@ -1,6 +1,6 @@
 <!--타이틀 부분-->
 <div align="center">
-  ![header](https://capsule-render.vercel.app/api?type=soft&color=0000FF&text=Hello%20World!)
+  https://capsule-render.vercel.app/api?type=soft&color=0000FF&text=Hello%20World!
 </div>
 
 <!--내용 부분-->
